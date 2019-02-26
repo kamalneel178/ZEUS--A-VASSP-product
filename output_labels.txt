@@ -1,0 +1,6 @@
+helmets
+rifles
+woman
+revolvers
+pistols
+man
