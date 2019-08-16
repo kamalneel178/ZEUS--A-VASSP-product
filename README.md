@@ -23,7 +23,7 @@ There has been an identified need for the security of the people of India. But, 
 
 1. Install [Vagrant](https://www.vagrantup.com/)
 2. Install [VirtualBox](https://www.virtualbox.org/)
-3. Download the vagrant setup files from [Udacity's Github](https://github.com/udacity/fullstack-nanodegree-vm)
+3. Download the vagrant setup files
 
 
 #### Start the Virtual Machine:
